@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Project31.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+C:\Users\Admin\source\repos\Project31\Project31\Source.cpp(161,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Admin\source\repos\Project31\Project31\Source.cpp(159): warning C4715: Round: значение возвращается не при всех путях выполнения
+  Project31.vcxproj -> C:\Users\Admin\source\repos\Project31\Debug\CombatVehicle.exe
